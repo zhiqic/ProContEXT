@@ -1,10 +1,5 @@
-
-
 # ProContEXT: Exploring Progressive Context Transformer for Tracking
 
-
-
-### Introduction
 
 In VOT, the ability to predict motion trajectories hinges heavily on context, particularly in scenarios teeming with similar object instances. For instance, consider a situation where objects change rapidly. The traditional VOT methods would falter due to their sole reliance on the target area in the initial frame. ProContEXT, in stark contrast, leverages both temporal (changes over time) and spatial (relative positions) contexts, significantly enhancing tracking precision.
 
